@@ -1,5 +1,7 @@
 # Stream WebCamera by TCP and Opencv
 
+ZERO latency.
+
 ## Requirement
 
 - Unix system
